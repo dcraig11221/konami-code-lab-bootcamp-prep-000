@@ -18,4 +18,3 @@ function init(keydown) {
   }
 }
 
-.addEventListener('keydown', init)
