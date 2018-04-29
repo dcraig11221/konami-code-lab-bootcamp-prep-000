@@ -1,4 +1,4 @@
-let x = document.body
+
 let index = 0
 const code = [38, 38, 40, 40, 37, 39, 37, 39, 66, 65];
 
@@ -18,4 +18,4 @@ function init(keydown) {
   }
 }
 
-x.addEventListener('keydown', init)
+.addEventListener('keydown', init)
